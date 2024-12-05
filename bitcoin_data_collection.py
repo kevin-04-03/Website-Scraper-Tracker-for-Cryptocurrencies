@@ -5,10 +5,11 @@ import datetime
 # Database connection
 db_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': '',
+    'user': 'ethan',
+    'password': '29122002',
     'database': 'bitcoin_information'
 }
+
 
 def collect_data():
     url = "https://api.kraken.com/0/public/Ticker"
