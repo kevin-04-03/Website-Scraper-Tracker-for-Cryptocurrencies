@@ -5,9 +5,10 @@ import datetime
 # Database connection
 db_config = {
     'host': 'localhost',
-    'user': 'ethan',
-    'password': '29122002',
-    'database': 'bitcoin_information'
+    'user': 'root',
+    'password': '',
+    'database': 'bitcoin_information',
+    'ssl_disabled': True
 }
 
 
