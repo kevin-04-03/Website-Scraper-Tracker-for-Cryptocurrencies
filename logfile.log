@@ -1,1057 +1,514 @@
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: line 0: line 0: Cannot load input from '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu'Cannot load input from '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu'
+
+
+
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+                Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+        Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+                                                              ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 3: cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+line 0: Cannot load input from '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu'
+
+Executing as: root
+Executing as: root
+line 0: Cannot load input from '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu'Executing as: root
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+
+
+   Enter password: Enter password:      Enter password:                                                Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+        Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+             Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+          ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 3: cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+Executing as: root
+ Executing as: root
+      Enter password: Enter password: Enter password:                                                                                Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+line 3: cannot open file; output not changed
+system error: No such file or directory
+
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: 
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+ 
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+                                                                                                 Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+                          Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+          Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+                                    ^
+ "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu"  line 3:  cannot open file; output not changed^
+
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" system error: No such file or directory
+line 3: 
+cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/solana_price_plot.png'
+ 
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+    Enter password: Enter password: Enter password:                                                                                                                  Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+           Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+      Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+                                                                                                                     ^
+   "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu"  ^
+line 3: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu"  cannot open file; output not changed 
+line 3: ^
+system error: No such file or directory
+cannot open file; output not changed"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" 
+
+line 3: system error: No such file or directory
+cannot open file; output not changed
+
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/solana_price_plot.png'
+ Executing as: root
+Executing as: root
+  
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+ Executing as: root
+                Enter password:    Enter password:            Enter password:                                                                                                        Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+            Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+                                                 Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+                 ^
+  "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu"   line 3:   cannot open file; output not changed  
+  system error: No such file or directory
+ 
+                          ^
+ "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu"  line 3:  cannot open file; output not changed 
+system error: No such file or directory
+ 
+ ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 3: cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/solana_price_plot.png'
+   
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+ Executing as: root
+Executing as: root
+     Executing as: root
+                    Enter password: Enter password:       Enter password:                                                                                           Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+               Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+                                                           Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+                             ^
+  "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu"    line 3:   cannot open file; output not changed  
+  system error: No such file or directory
+  
+                 ^
+^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 3: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" cannot open file; output not changedline 3: 
+cannot open file; output not changedsystem error: No such file or directory
+
+
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+Executing as: root
+Executing as: root
+    
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
+    Enter password:    Enter password:        Enter password:                   "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu"  line 20:    warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"  
+                Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+                   Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+                               Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+                                                          ^
+ "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu"  line 3:  cannot open file; output not changed 
+system error: No such file or directory
+ 
+  ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 3: cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: 
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/ethereum_price_plot.png'
+     Enter password:                      "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20:   warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv" 
+   Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+              Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+         Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+                                ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 3: cannot open file; output not changed
+system error: No such file or directory
 
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Warning: empty y range [234.59:234.59], adjusting to [232.244:236.936]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
 
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
 "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" warning: line 20: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"warning: 
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
 "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Enter password: Executing as: root
+Executing as: root
+Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
 "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
 
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Warning: empty y range [3973.54:3973.54], adjusting to [3933.8:4013.28]
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
 Data inserted successfully.
-/bin/sh: 1: /mnt/c/Users/Asus.data_management_cw2_ethan_kevin/export_bitcoin_data.sh: not found
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
 Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: mv: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-error writing '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv': Permission denied
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Skipping data file with no valid points
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Skipping data file with no valid points
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: No data in plot
-
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
-Data inserted successfully.
-Traceback (most recent call last):
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 48, in <module>
-    collect_data()
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 31, in collect_data
-    conn = mysql.connector.connect(**db_config)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/__init__.py", line 173, in connect
-    return MySQLConnection(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 102, in __init__
-    self.connect(**kwargs)
-  File "/usr/lib/python3/dist-packages/mysql/connector/abstracts.py", line 735, in connect
-    self._open_connection()
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 250, in _open_connection
-    self._do_auth(self._user, self._password,
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 155, in _do_auth
-    self._socket.switch_to_ssl(ssl_options.get('ca'),
-  File "/usr/lib/python3/dist-packages/mysql/connector/network.py", line 427, in switch_to_ssl
-    self.sock = ssl.wrap_socket(
-                ^^^^^^^^^^^^^^^
-AttributeError: module 'ssl' has no attribute 'wrap_socket'
-Traceback (most recent call last):
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 48, in <module>
-    collect_data()
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 31, in collect_data
-    conn = mysql.connector.connect(**db_config)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/__init__.py", line 173, in connect
-    return MySQLConnection(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 102, in __init__
-    self.connect(**kwargs)
-  File "/usr/lib/python3/dist-packages/mysql/connector/abstracts.py", line 735, in connect
-    self._open_connection()
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 250, in _open_connection
-    self._do_auth(self._user, self._password,
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 155, in _do_auth
-    self._socket.switch_to_ssl(ssl_options.get('ca'),
-  File "/usr/lib/python3/dist-packages/mysql/connector/network.py", line 427, in switch_to_ssl
-    self.sock = ssl.wrap_socket(
-                ^^^^^^^^^^^^^^^
-AttributeError: module 'ssl' has no attribute 'wrap_socket'
-Traceback (most recent call last):
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 48, in <module>
-    collect_data()
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 31, in collect_data
-    conn = mysql.connector.connect(**db_config)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/__init__.py", line 173, in connect
-    return MySQLConnection(*args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 102, in __init__
-    self.connect(**kwargs)
-  File "/usr/lib/python3/dist-packages/mysql/connector/abstracts.py", line 735, in connect
-    self._open_connection()
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 250, in _open_connection
-    self._do_auth(self._user, self._password,
-  File "/usr/lib/python3/dist-packages/mysql/connector/connection.py", line 155, in _do_auth
-    self._socket.switch_to_ssl(ssl_options.get('ca'),
-  File "/usr/lib/python3/dist-packages/mysql/connector/network.py", line 427, in switch_to_ssl
-    self.sock = ssl.wrap_socket(
-                ^^^^^^^^^^^^^^^
-AttributeError: module 'ssl' has no attribute 'wrap_socket'
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 11
-    'ssl_disabled': True
-                  ^
-SyntaxError: invalid syntax
-  File "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data_collection.py", line 11
-    'ssl_disabled': True
-                  ^
-SyntaxError: invalid syntax
-MySQL error: sha256_password requires SSL
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1045 (28000): Access denied for user 'ethan'@'localhost' (using password: YES)
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1045 (28000): Access denied for user 'ethan'@'localhost' (using password: YES)
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1045 (28000): Access denied for user 'ethan'@'localhost' (using password: YES)
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 1045 (28000): Access denied for user 'ethan'@'localhost' (using password: YES)
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-mv: cannot stat '/var/lib/mysql-files/temp_bitcoin_data.csv': Permission denied
-Data inserted successfully.
-/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/export_bitcoin_data.sh: line 11: [: missing `]'
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/export_bitcoin_data.sh: line 11: [: missing `]'
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/export_bitcoin_data.sh: line 11: [: missing `]'
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
-sudo: a password is required
-Failed to move file to /mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data.csv
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
-sudo: a password is required
-Failed to move file to /mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data.csv
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1290 (HY000) at line 2: The MySQL server is running with the --secure-file-priv option so it cannot execute this statement
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1290 (HY000) at line 2: The MySQL server is running with the --secure-file-priv option so it cannot execute this statement
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Enter password: sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
-sudo: a password is required
-Failed to move file to /mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_data.csv
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Enter password: ERROR 1086 (HY000) at line 2: File '/var/lib/mysql-files/temp_bitcoin_data.csv' already exists
-MYSQL export failed
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
-Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
 Data inserted successfully.
 Data inserted successfully.
 Data inserted successfully.
