@@ -20,7 +20,7 @@ if [ -f "$TEMP_FILE" ]; then
 fi
 
 # Export MySQL data to CSV
-mysql -u $MYSQL_USER -p$MYSQL_PASS -h localhost $MYSQL_DB -e "
+mysql -u $MYSQL_USER -p $MYSQL_PASS -h localhost $MYSQL_DB -e "
 SELECT CreatedDateTime, CurrentPrice, DayHighestPrice, DayLowestPrice
 INTO OUTFILE '$TEMP_FILE'
 FIELDS TERMINATED BY ','
