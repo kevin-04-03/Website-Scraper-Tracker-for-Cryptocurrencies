@@ -512,3 +512,881 @@ Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_dat
 Data inserted successfully.
 Data inserted successfully.
 Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Enter password: Enter password: Executing as: root
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+/bin/sh: 1: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/export_all_data.sh: not found
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: line 0: Cannot load input from '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu'
+
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+mv: error writing '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv': Bad file descriptor
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Skipping data file with no valid points
+Failed to move file to /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Skipping data file with no valid points
+
+plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:2 title "Current Price" with lines,      "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:3 title "Day High" with lines,      "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:4 title "Day Low" with lines
+   Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+                                                                                                                                                                                                                                                                                                                                               ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: x range is invalid
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Removing existing temporary file...
+Executing as: root
+Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Skipping data file with no valid points
+Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Skipping data file with no valid points
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Skipping data file with no valid points
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+
+plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:2 title "Current Price" with lines,      "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:3 title "Day High" with lines,      "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv" using 1:4 title "Day Low" with lines
+            Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+                                                                                                                                                                                                                                                                                                                                      ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: x range is invalid
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Enter password: Executing as: root
+Executing as: root
+Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Enter password: Executing as: root
+Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Enter password: Enter password: Executing as: root
+Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv""/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" 
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: ERROR 1064 (42000) at line 2: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+SELECT 'Ethereum', CurrentPrice
+FROM ethereum
+ORDER BY CreatedDateTime' at line 7
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" MYSQL export failed
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: ERROR 1064 (42000) at line 2: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+SELECT 'ethereum', CurrentPrice
+FROM ethereum
+ORDER BY CreatedDateTime' at line 7
+MYSQL export failed
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: ERROR 1064 (42000) at line 2Enter password: : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+SELECT 'ethereum', CurrentPrice
+FROM ethereum
+ORDER BY CreatedDateTime' at line 7
+MYSQL export failed
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: ERROR 1064 (42000) at line 2: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+SELECT 'ethereum', CurrentPrice
+FROM ethereum
+ORDER BY CreatedDateTime' at line 7
+MYSQL export failed
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: ERROR 1064 (42000) at line 2: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL
+SELECT 'ethereum', CurrentPrice
+FROM ethereum
+ORDER BY CreatedDateTime' at line 7
+MYSQL export failed
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" mv: line 20: warning: cannot create regular file '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv'Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv": Input/output error
+
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 20: warning: Failed to move file to /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: No data in plot
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Removing existing temporary file...
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: ERROR 1222 (21000) at line 2: The used SELECT statements have a different number of columns
+Enter password: MYSQL export failed
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: ERROR 1222 (21000) at line 2: The used SELECT statements have a different number of columns
+MYSQL export failed
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Skipping data file with no valid points
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Enter password: Enter password: Executing as: root
+Enter password: Executing as: root
+Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Warning: empty x range [1.73367e+09:1.73367e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Enter password: Executing as: root
+Executing as: root
+Enter password: Executing as: root
+Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Enter password: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Executing as: root
+Enter password: Warning: empty x range [1.73368e+09:1.73368e+09], adjusting to [1.71634e+09:1.75101e+09]
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" 
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_bitcoin_data.gnu" line 20: warning: Skipping data file with no valid points
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+
+plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"      using 3:2:xtic(1) title "Bitcoin" with linespoints,      '' using 3:2 title "Ethereum" with linespoints,      '' using 3:2 title "Solana" with linespoints
+                                                                                                                                                                                                                                     ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: x range is invalid
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+
+plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"      using 3:2:xtic(1) title "Bitcoin" with linespoints,      '' using 3:2 title "Ethereum" with linespoints,      '' using 3:2 title "Solana" with linespoints
+                                                                                                                                                                                                                                     ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: x range is invalid
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Skipping data file with no valid points
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: warning: Skipping data file with no valid points
+
+plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"      using 3:2:xtic(1) title "Bitcoin" with linespoints,      '' using 3:2 title "Ethereum" with linespoints,      '' using 3:2 title "Solana" with linespoints
+                                                                                                                                                                                                                                     ^
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 21: x range is invalid
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variable
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Enter password: Executing as: root
+Executing as: root
+Enter password: Executing as: root
+Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variableExport successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+
+
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variable
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variable
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variable
+
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_all_data.gnu" line 26: internal error : STRING operator applied to undefined or non-STRING variable
+
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Executing as: root
+Enter password: mv: cannot create regular file '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv'"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" : Input/output error
+line 20: warning: Failed to move file to /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+"/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_ethereum_data.gnu" line 20: warning: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Removing existing temporary file...
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/plot_solana_data.gnu" line 20: warning: Cannot find or open file "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
+Executing as: root
+Executing as: root
+Executing as: root
+Executing as: root
+Enter password: Enter password: Enter password: Enter password: Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/bitcoin_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv
+Export successful: /mnt/c/Users/Asus/data_management_cw2_ethan_kevin/ethereum_data.csv
+Data inserted successfully.
+Data inserted successfully.
+Data inserted successfully.
