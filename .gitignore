@@ -1,0 +1,6 @@
+
+# Ignore log files
+logfile.log
+
+# Ignore all .log files
+*.log
