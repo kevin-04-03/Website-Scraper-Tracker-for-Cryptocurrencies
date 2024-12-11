@@ -3,7 +3,7 @@
 MYSQL_USER="root"
 MYSQL_PASS=""
 MYSQL_DB="bitcoin_information"
-OUTPUT_FILE="/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv"
+OUTPUT_FILE="/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/all_data.csv"
 
 # Temporary file path for MySQL OUTFILE
 TEMP_FILE="/var/lib/mysql-files/temp_all_data.csv"
@@ -21,7 +21,7 @@ if [ -f "$TEMP_FILE" ]; then
 fi
 
 # Export MySQL data to CSV
-mysql -u $MYSQL_USER -p$MYSQL_PASS -h localhost $MYSQL_DB -e "
+mysql -u $MYSQL_USER -p $MYSQL_PASS -h localhost $MYSQL_DB -e "
 SELECT CreatedDateTime, Cryptocurrency, CurrentPrice
 INTO OUTFILE '$TEMP_FILE'
 FIELDS TERMINATED BY ','

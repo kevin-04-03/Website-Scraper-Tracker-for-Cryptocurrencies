@@ -1,6 +1,6 @@
 # Set output to a PNG file
 set terminal pngcairo enhanced font 'Verdana,10'
-set output '/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_price_plot.png'
+set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/all_price_plot.png'
 
 # Set datafile separator and date formatting
 set datafile separator ","
@@ -20,7 +20,11 @@ eth_color = "#0000FF"
 sol_color = "#00FF00"
 
 # Plot the data
-plot "/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/all_data.csv" \
+plot "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/all_data.csv" \
      using 1:(strcol(2) eq "Bitcoin" ? $3 : 1/0) title "Bitcoin" with linespoints lc rgb btc_color, \
      '' using 1:(strcol(2) eq "Ethereum" ? $3 : 1/0) title "Ethereum" with linespoints lc rgb eth_color, \
      '' using 1:(strcol(2) eq "Solana" ? $3 : 1/0) title "Solana" with linespoints lc rgb sol_color
+
+# Print a success message (Linux)
+print "All data plot generated successfully."
+!echo "All data plot successfully created!" >> logfile.log
