@@ -1,5 +1,5 @@
 # Set output to a PNG file
-set terminal pngcairo enhanced font 'Verdana,10'
+set terminal pngcairo enhanced font 'Verdana,8'
 set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/bitcoin_price_plot.png'
 
 # Set datafile separator and date formatting

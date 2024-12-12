@@ -1,5 +1,5 @@
 # Set output to a PNG file
-set terminal pngcairo enhanced font 'Verdana,10'
+set terminal pngcairo enhanced font 'Verdana,8'
 set output '/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/all_price_plot.png'
 
 # Set datafile separator and date formatting
@@ -26,5 +26,4 @@ plot "/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/all_data.csv" \
      '' using 1:(strcol(2) eq "Solana" ? $3 : 1/0) title "Solana" with linespoints lc rgb sol_color
 
 # Print a success message (Linux)
-print "All data plot generated successfully."
-!echo "All data plot successfully created!" >> logfile.log
+!echo "All data plot successfully created!"
