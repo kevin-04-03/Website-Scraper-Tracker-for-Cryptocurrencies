@@ -3,7 +3,7 @@
 MYSQL_USER="root"
 MYSQL_PASS=""
 MYSQL_DB="bitcoin_information"
-OUTPUT_FILE="/mnt/c/Users/lowkp/data_management_cw2_ethan_kevin/solana_data.csv"
+OUTPUT_FILE="/mnt/c/Users/Asus/data_management_cw2_ethan_kevin/solana_data.csv"
 
 # Temporary file path for MySQL OUTFILE
 TEMP_FILE="/var/lib/mysql-files/temp_solana_data.csv"
