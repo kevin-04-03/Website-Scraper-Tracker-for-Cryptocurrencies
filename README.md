@@ -103,9 +103,9 @@ Bash
 gnuplot plot_all_data.gnu
 
 ## Authors and acknowledgment
-Ethan - Co-developer & Data Management
+Low Yee Heng Kevin — University of Southampton Malaysia   
 
-Kevin - Co-developer & Data Management
+Moo Keh Chuan Ethan — University of Southampton Malaysia
 
 Developed as part of Data Management Coursework 2.
 
